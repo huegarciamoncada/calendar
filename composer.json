@@ -1,0 +1,17 @@
+{
+    "name": "hue/calendar",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hue GARCIA MONCADA",
+            "email": "nttfue@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Calendar\\": "src/Calendar",
+            "App\\": "src/App"
+        }
+    },
+    "require": {}
+}
